@@ -1,0 +1,45 @@
+#table_id {
+    margin: 0 auto;
+    border: 1px solid lightgrey;
+}
+#form_id {
+
+    text-align: center;
+
+}
+#heading{
+	text-align: center;
+}
+.text_feild {
+    font-weight: bold;
+}
+.project_work {
+    width: 180px;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+.Academic button {
+    padding: 4px 15px 7px 15px;
+    background: yellow;
+    border: yellow;
+    border-radius: 20px;
+    font-size: 17px;
+    font-family: arial;
+    margin: 9px 0;
+}
+table {
+    margin: 0 auto;
+}
+.Academic {
+    background: brown;
+    border: navajowhite;
+    color: white;
+    font-size: 19px;
+    border-radius: 5px;
+    margin: 13px 0;
+    padding: 7px 23px 7px 23px;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
